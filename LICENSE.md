@@ -1,4 +1,4 @@
-# 
+# Profissional WizTree plugins para Mac OS | Automático WizTree plugins para PC Windows. Com monitoramento em tempo real e gerenciador de inicializacao — otimizado para máximo desempenho em cada plataforma.
 
 
 
